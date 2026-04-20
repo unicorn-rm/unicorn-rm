@@ -1,126 +1,128 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,100:6a00ff&height=250&section=header&text=UNICORN-RM&fontSize=45&fontColor=ffffff" width="100%"/>
+```bash
+███████╗███╗   ██╗██╗ ██████╗ ██████╗ ██████╗ ███╗   ██╗
+██╔════╝████╗  ██║██║██╔════╝██╔═══██╗██╔══██╗████╗  ██║
+█████╗  ██╔██╗ ██║██║██║     ██║   ██║██████╔╝██╔██╗ ██║
+██╔══╝  ██║╚██╗██║██║██║     ██║   ██║██╔══██╗██║╚██╗██║
+███████╗██║ ╚████║██║╚██████╗╚██████╔╝██║  ██║██║ ╚████║
+╚══════╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=24&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Pentester+in+Progress;Network+Analysis+Mode;Building+Security+Projects" />
-</p>
+> unicornOS v6.0 initialized
+> system status: ONLINE
+```
 
 ---
-
-## 🖥️ TERMINAL
 
 ```bash
 $ whoami
-> unicorn-rm
+unicorn-rm
 
 $ role
-> Cybersecurity Student
+Cybersecurity Student
 
-$ mission
-> Learn → Practice → Break → Secure ⚡
+$ mode
+offensive-learning
 ```
 
 ---
-
-## 🧬 CORE PROFILE
-
-```js
-const unicornRM = {
-  focus: ["Web Security", "Pentesting", "Networking"],
-  tools: ["Linux", "Kali", "Wireshark", "Nmap"],
-  mindset: "Always learning & practicing"
-};
-```
-
----
-
-## 🔐 TECH STACK
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,github,js,html,css,mysql" />
-</p>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unicorn-rm&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-rm&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
-## 🐍 ACTIVITY SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/unicorn-rm/unicorn-rm/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🧪 CYBERSEC LAB & WRITEUPS
 
 ```bash
-[ ACTIVE LEARNING ]
-
-> tryhackme labs
-> hackthebox challenges
-> vulnerability analysis
-> network traffic analysis
-```
-
-📂 Coming soon:
-
-* Web vulnerabilities (XSS, SQLi)
-* Network attack simulations
-* CTF writeups
-
----
-
-## 📡 NETWORK SKILLS
-
-```diff
-+ TCP/IP        ██████████ 100%
-+ DNS           ████████░░ 85%
-+ HTTP/HTTPS    ██████████ 100%
-+ VPN           ██████████ 100%
-+ Firewalls     ██████████ 100%
+$ load_modules
+[✔] network_analysis
+[✔] web_security
+[✔] pentesting
+[✔] scripting
 ```
 
 ---
-
-## 🧠 PROJECTS (REAL WORK)
 
 ```bash
-[ IN PROGRESS ]
-
-> portfolio.sh      # terminal-style portfolio
-> cyber-labs        # security practice repo
-> web-security      # vulnerabilities & fixes
+$ system_info
+os:        linux / windows
+tools:     kali, wireshark, nmap
+languages: python, c++, sql
 ```
 
 ---
 
-## 💬 SOFT SKILLS
-
 ```bash
-> Resilience (95%)
-> Responsibility (100%)
-> Curiosity (100%)
-> Time Management (90%)
+$ scan --skills
+
+[ OS ]
+windows         █████████░ 90%
+linux           ████████░░ 85%
+virtualization  ███████░░░ 80%
+
+[ PROGRAMMING ]
+python          ███████░░░ 75%
+c++ / c#        ██████░░░░ 70%
+sql             ███████░░░ 75%
+
+[ TOOLS ]
+pentest         ████████░░ 85%
+git/github      █████████░ 90%
+databases       ██████████ 95%
+
+[ NETWORK ]
+tcp/ip          ██████████ 100%
+dns             ████████░░ 85%
+http/https      ██████████ 100%
+vpn             ██████████ 100%
+
+[ CYBERSEC ]
+encryption      █████████░ 90%
+pentest         ███████░░░ 80%
+kali linux      █████████░ 95%
+analysis        █████████░ 90%
 ```
 
 ---
 
-## 📫 CONTACT
+```bash
+$ lab_status
+
+> tryhackme         [ACTIVE]
+> hackthebox        [ACTIVE]
+> traffic analysis  [IN PROGRESS]
+> exploit research  [IN PROGRESS]
+```
+
+---
 
 ```bash
+$ active_projects
+
+[ RUNNING ]
+
+> portfolio.sh      # terminal-style website
+> cyber-labs        # security practice
+> web-vuln-lab      # vulnerabilities testing
+```
+
+---
+
+```bash
+$ certifications
+
+> cisco cybersecurity
+> isc2 candidate
+> fortinet nse
+> ibm cybersecurity
+```
+
+---
+
+```bash
+$ contact
+
 telegram: @yarik2279
 email: unicorn_rm@proton.me
 ```
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6a00ff,100:ff00cc&height=120&section=footer"/>
-</p>
+```bash
+$ exit
+
+> session closed
+> user: unicorn-rm
+```
