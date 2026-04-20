@@ -1,75 +1,29 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:cc33ff,100:6600ff&height=260&section=header&text=UNICORN%20OFFENSIVE%20SYSTEM&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:cc33ff,100:6600ff&height=240&section=header&text=UNICORN%20SYSTEM%20V10.1&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=booting+unicorn-rm...;offensive+security+mode+enabled;analyze+%7C+exploit+%7C+defend;welcome+to+my+cyber+space+%F0%9F%A6%84"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=unicorn-rm+profile+loading...;cybersecurity+mode+enabled;pentest+%7C+networks+%7C+analysis"/>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧠 SYSTEM CORE
+## 🧠 SYSTEM
 
 ```bash
 $ whoami
 unicorn-rm
 
-$ specialization
-Cybersecurity / Pentest
+$ role
+Cybersecurity Student
 
-$ philosophy
-"Understand the system → break it → secure it"
-
-$ state
-ACTIVE ⚡
-```
-
----
-
-## 🦄 SIGNATURE
-
-```txt
-           /\
-          /**\
-         /****\   unicorn-rm
-        /      \  offensive security
-       /  ⚡⚡   \
-      /__________\
+$ focus
+Pentesting / Networks / Web Security
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:6600ff&height=2"/>
 
-## 💀 REALISTIC ATTACK FLOW
-
-```bash
-[ TARGET: web application ]
-
-1. recon →
-   - subdomain scan
-   - dir bruteforce
-   - tech fingerprint
-
-2. analysis →
-   - parameters
-   - auth logic
-   - input validation
-
-3. exploitation →
-   - XSS / SQLi / IDOR
-   - privilege escalation
-
-4. post →
-   - persistence simulation
-   - report generation
-
-status: SUCCESS ⚡
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## ⚡ CYBER STACK
+## ⚡ STACK
 
 <p align="right">
 
@@ -83,13 +37,37 @@ status: SUCCESS ⚡
 
 </p>
 
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+## 🏆 CERTIFICATIONS (clickable)
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BurpSuite-ff6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
+<a href="https://www.credly.com/badges/3b72c93b-d79b-435a-bfb1-0c6e2faaced6" target="_blank">
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/543454fd-40f6-4fe4-8400-578562a5fb24" target="_blank">
+<img src="https://img.shields.io/badge/ISC2-Candidate-7A1FA2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/76fc8218-eb89-4ae9-a47b-06b5a93230f2/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Fortinet-Fundamentals-EE3124?style=for-the-badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/313d559e-8e60-45c2-8621-835406dd4132/public_url" target="_blank">
+<img src="https://img.shields.io/badge/NSE1-Threat-F39C12?style=for-the-badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/1de506d2-2c2a-4bf8-995f-497b95e4e8e1/public_url" target="_blank">
+<img src="https://img.shields.io/badge/NSE2-Technical-D32F2F?style=for-the-badge"/>
+</a>
+
+<a href="https://www.credly.com/badges/b7b62e7a-6793-4245-9d05-0a972284ec0f/public_url" target="_blank">
+<img src="https://img.shields.io/badge/IBM-Cybersecurity-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
 
 </p>
 
@@ -97,33 +75,29 @@ status: SUCCESS ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
 
-## 🧬 SKILL MATRIX
+## 📡 NETWORK
 
-```bash
-OS             █████████░ 90%
-Linux          ████████░░ 85%
-Python         ███████░░░ 75%
-Pentest        ████████░░ 80%
-Networking     ██████████ 100%
-Cybersecurity  ████████░░ 80%
+```
+TCP/IP     ██████████ 100%
+DNS        ████████░░ 85%
+HTTP/S     ██████████ 100%
+VPN        ██████████ 100%
+Firewall   ██████████ 100%
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🏆 CERTIFICATION LOG
+## 🧪 LAB
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-blue?style=for-the-badge&logo=cisco"/>
-<img src="https://img.shields.io/badge/ISC2-Candidate-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fortinet-NSE-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IBM-Cybersecurity-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NSE1-Threat-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NSE2-Technical-red?style=for-the-badge"/>
-
-</p>
+```bash
+> tryhackme
+> hackthebox
+> wireshark analysis
+> vulnerability scanning
+> exploit research
+```
 
 ---
 
@@ -139,35 +113,7 @@ Cybersecurity  ████████░░ 80%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧪 LABS & PRACTICE
-
-```bash
-tryhackme     █████████░ ACTIVE
-hackthebox    █████████░ ACTIVE
-ctf           ███████░░░ ACTIVE
-bugbounty     █████░░░░░ LEARNING
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
-
-## 🧠 WRITEUPS (coming soon)
-
-```bash
-[ upcoming ]
-
-> XSS bypass case
-> IDOR vulnerability analysis
-> Linux privilege escalation
-> Web pentest methodology
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 📡 CONTACT
+## 📫 CONTACT
 
 ```bash
 telegram: @yarik2279
@@ -176,9 +122,4 @@ email: unicorn_rm@proton.me
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:cc33ff,100:ff00cc&height=150&section=footer"/>
-
-```bash
-> session terminated
-> unicorn-rm offline 🦄
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:cc33ff,100:ff00cc&height=140&section=footer"/>
