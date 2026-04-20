@@ -1,12 +1,12 @@
-```bash
-███████╗███╗   ██╗██╗ ██████╗ ██████╗ ██████╗ ███╗   ██╗
-██╔════╝████╗  ██║██║██╔════╝██╔═══██╗██╔══██╗████╗  ██║
-█████╗  ██╔██╗ ██║██║██║     ██║   ██║██████╔╝██╔██╗ ██║
-██╔══╝  ██║╚██╗██║██║██║     ██║   ██║██╔══██╗██║╚██╗██║
-███████╗██║ ╚████║██║╚██████╗╚██████╔╝██║  ██║██║ ╚████║
-╚══════╝╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=UNICORN%20OS&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-> unicornOS v6.0 initialized
+<img src="https://readme-typing-svg.herokuapp.com?color=FF00CC&size=22&center=true&vCenter=true&width=600&lines=unicorn-rm+%7C+Cybersecurity+Student;Offensive+Security+Mode;Pentest+%7C+Networks+%7C+Analysis" />
+
+---
+
+```bash
+> unicornOS v6.5 booting...
+> loading modules...
 > system status: ONLINE
 ```
 
@@ -20,26 +20,18 @@ $ role
 Cybersecurity Student
 
 $ mode
-offensive-learning
+offensive-security
 ```
 
 ---
 
 ```bash
 $ load_modules
-[✔] network_analysis
+
 [✔] web_security
+[✔] network_analysis
 [✔] pentesting
 [✔] scripting
-```
-
----
-
-```bash
-$ system_info
-os:        linux / windows
-tools:     kali, wireshark, nmap
-languages: python, c++, sql
 ```
 
 ---
@@ -77,52 +69,54 @@ analysis        █████████░ 90%
 
 ---
 
+## ⚡ SYSTEM ANALYTICS
+
+<img src="https://github-readme-stats.vercel.app/api?username=unicorn-rm&show_icons=true&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=unicorn-rm&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn-rm&layout=compact&theme=radical&hide_border=true" />
+
+---
+
+## 🧠 LIVE STATUS
+
 ```bash
 $ lab_status
 
 > tryhackme         [ACTIVE]
 > hackthebox        [ACTIVE]
-> traffic analysis  [IN PROGRESS]
-> exploit research  [IN PROGRESS]
+> exploit research  [RUNNING]
+> traffic analysis  [RUNNING]
 ```
 
 ---
 
-```bash
-$ active_projects
+## 🧬 STACK
 
-[ RUNNING ]
-
-> portfolio.sh      # terminal-style website
-> cyber-labs        # security practice
-> web-vuln-lab      # vulnerabilities testing
-```
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,js,html,css" />
 
 ---
 
-```bash
-$ certifications
+## 🐍 ACTIVITY
 
-> cisco cybersecurity
-> isc2 candidate
-> fortinet nse
-> ibm cybersecurity
-```
+<img src="https://github.com/unicorn-rm/unicorn-rm/blob/output/github-contribution-grid-snake-dark.svg" />
 
 ---
 
-```bash
-$ contact
+## 📡 CONTACT
 
+```bash
 telegram: @yarik2279
 email: unicorn_rm@proton.me
 ```
 
 ---
 
-```bash
-$ exit
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=120&section=footer"/>
 
+```bash
+> system.shutdown()
 > session closed
-> user: unicorn-rm
+> unicorn-rm
 ```
