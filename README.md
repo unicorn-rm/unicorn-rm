@@ -1,68 +1,73 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,40:cc33ff,100:6600ff&height=250&section=header&text=UNICORN%20INTERFACE&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:cc33ff,100:6600ff&height=260&section=header&text=UNICORN%20OFFENSIVE%20SYSTEM&fontSize=46&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=unicorn-rm+system+booting...;cybersecurity+mode+enabled;offensive+security+%7C+analysis+%7C+networks;welcome+to+my+interface+%F0%9F%A6%84" />
+<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=booting+unicorn-rm...;offensive+security+mode+enabled;analyze+%7C+exploit+%7C+defend;welcome+to+my+cyber+space+%F0%9F%A6%84"/>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧠 IDENTITY
+## 🧠 SYSTEM CORE
 
-```bash id="idv11"
+```bash
 $ whoami
 unicorn-rm
 
-$ role
-Cybersecurity Student
+$ specialization
+Cybersecurity / Pentest
 
-$ mindset
-break -> analyze -> secure
+$ philosophy
+"Understand the system → break it → secure it"
 
-$ status
-ONLINE ⚡
+$ state
+ACTIVE ⚡
+```
+
+---
+
+## 🦄 SIGNATURE
+
+```txt
+           /\
+          /**\
+         /****\   unicorn-rm
+        /      \  offensive security
+       /  ⚡⚡   \
+      /__________\
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:6600ff&height=2"/>
 
-## 💀 LIVE ATTACK FEED
+## 💀 REALISTIC ATTACK FLOW
 
-```bash id="attackv11"
-[ LIVE SESSION ]
+```bash
+[ TARGET: web application ]
 
-target: test environment
-vector: web input
+1. recon →
+   - subdomain scan
+   - dir bruteforce
+   - tech fingerprint
 
-[+] scanning...
-[+] parameters mapped
+2. analysis →
+   - parameters
+   - auth logic
+   - input validation
 
-[!] XSS payload injected
-[+] response received
+3. exploitation →
+   - XSS / SQLi / IDOR
+   - privilege escalation
 
-[!] weak auth detected
-[+] access simulated
+4. post →
+   - persistence simulation
+   - report generation
 
-status: exploited ⚡
+status: SUCCESS ⚡
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
-## 🧠 THINKING ENGINE
-
-```bash id="thinkv11"
-1. map attack surface
-2. identify entry points
-3. test manually + automate
-4. confirm vulnerability
-5. report & fix
-```
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
 
 ## ⚡ CYBER STACK
 
@@ -82,7 +87,7 @@ status: exploited ⚡
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark"/>
 <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp-ff6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BurpSuite-ff6633?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
 
@@ -90,9 +95,24 @@ status: exploited ⚡
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
+
+## 🧬 SKILL MATRIX
+
+```bash
+OS             █████████░ 90%
+Linux          ████████░░ 85%
+Python         ███████░░░ 75%
+Pentest        ████████░░ 80%
+Networking     ██████████ 100%
+Cybersecurity  ████████░░ 80%
+```
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🏆 CERTIFICATIONS
+## 🏆 CERTIFICATION LOG
 
 <p align="center">
 
@@ -119,26 +139,28 @@ status: exploited ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧪 LAB STATUS
+## 🧪 LABS & PRACTICE
 
-```bash id="labv11"
+```bash
 tryhackme     █████████░ ACTIVE
 hackthebox    █████████░ ACTIVE
-vuln-lab      ███████░░░ RUNNING
-exploit-dev   █████░░░░░ LEARNING
+ctf           ███████░░░ ACTIVE
+bugbounty     █████░░░░░ LEARNING
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
 
-## 🎯 PROJECTS
+## 🧠 WRITEUPS (coming soon)
 
-```bash id="projv11"
-> portfolio.sh
-> cyber-labs
-> vuln-research
-> web-security
+```bash
+[ upcoming ]
+
+> XSS bypass case
+> IDOR vulnerability analysis
+> Linux privilege escalation
+> Web pentest methodology
 ```
 
 ---
@@ -147,7 +169,7 @@ exploit-dev   █████░░░░░ LEARNING
 
 ## 📡 CONTACT
 
-```bash id="contactv11"
+```bash
 telegram: @yarik2279
 email: unicorn_rm@proton.me
 ```
@@ -156,7 +178,7 @@ email: unicorn_rm@proton.me
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:cc33ff,100:ff00cc&height=150&section=footer"/>
 
-```bash id="endv11"
-> exit
-> unicorn interface closed 🦄
+```bash
+> session terminated
+> unicorn-rm offline 🦄
 ```
