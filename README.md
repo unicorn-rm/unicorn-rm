@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:cc33ff,100:6600ff&height=240&section=header&text=UNICORN%20SYSTEM%20V10.1&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,50:cc33ff,100:6600ff&height=240&section=header&text=UNICORN%20SYSTEM%20V10.2&fontSize=44&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=unicorn-rm+profile+loading...;cybersecurity+mode+enabled;pentest+%7C+networks+%7C+analysis"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=ff66ff&size=24&center=true&vCenter=true&width=900&lines=unicorn-rm+initializing...;cybersecurity+specialist+mode;pentest+%7C+networks+%7C+analysis;ready+for+internship"/>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧠 SYSTEM
+## 🧠 SYSTEM CORE
 
 ```bash
 $ whoami
@@ -15,15 +15,18 @@ unicorn-rm
 $ role
 Cybersecurity Student
 
+$ status
+Looking for internship ⚡
+
 $ focus
-Pentesting / Networks / Web Security
+Pentest / Web Security / Networking
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:6600ff&height=2"/>
 
-## ⚡ STACK
+## ⚡ MAIN STACK (CORE)
 
 <p align="right">
 
@@ -32,8 +35,21 @@ Pentesting / Networks / Web Security
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=bash" />
 <img src="https://skillicons.dev/icons?i=docker" />
+
+</p>
+
+---
+
+## 🧬 EXTENDED STACK
+
+<p align="right">
+
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
 
 </p>
 
@@ -41,7 +57,19 @@ Pentesting / Networks / Web Security
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🧬 SKILLS
+## 🔥 TOP SKILLS (FOCUS)
+
+```bash
+Pentesting        ████████░░ 80%
+Networking        ██████████ 100%
+Web Security      █████████░ 95%
+Linux            ████████░░ 85%
+Threat Analysis   █████████░ 95%
+```
+
+---
+
+## 🧪 FULL SKILL MATRIX
 
 ```bash
 [ OS ]
@@ -72,45 +100,59 @@ Security NT    ██████████ 100%
 Pentest        ████████░░ 80%
 Kali Linux     █████████░ 95%
 Attack Analysis████████░░ 90%
-
-[ Soft Skills ]
-Resilience     █████████░ 95%
-Sociability    █████████░ 90%
-Responsibility ██████████ 100%
-Curiosity      ██████████ 100%
-Time Mgmt      █████████░ 90%
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:ff00cc&height=2"/>
 
+## 💀 CYBER ACTIVITY
+
+```bash
+[ LABS ]
+> TryHackMe
+> HackTheBox
+
+[ TASKS ]
+> vulnerability scanning
+> traffic analysis (Wireshark)
+> exploit research
+> web pentest practice
+
+[ STATUS ]
+> actively learning & practicing daily
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 ## 🏆 CERTIFICATIONS
 
 <p align="center">
 
 <a href="https://www.credly.com/badges/3b72c93b-d79b-435a-bfb1-0c6e2faaced6">
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Cybersecurity-ff66cc?style=for-the-badge&logo=cisco&logoColor=white"/>
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/543454fd-40f6-4fe4-8400-578562a5fb24">
-<img src="https://img.shields.io/badge/ISC2-Candidate-7A1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ISC2-Candidate-cc33ff?style=for-the-badge"/>
 </a>
 
 <a href="https://www.credly.com/badges/76fc8218-eb89-4ae9-a47b-06b5a93230f2/public_url">
-<img src="https://img.shields.io/badge/Fortinet-Fundamentals-EE3124?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fortinet-Fundamentals-ff3399?style=for-the-badge"/>
 </a>
 
 <a href="https://www.credly.com/badges/313d559e-8e60-45c2-8621-835406dd4132/public_url">
-<img src="https://img.shields.io/badge/NSE1-Threat-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NSE1-Threat-b366ff?style=for-the-badge"/>
 </a>
 
 <a href="https://www.credly.com/badges/1de506d2-2c2a-4bf8-995f-497b95e4e8e1/public_url">
-<img src="https://img.shields.io/badge/NSE2-Technical-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NSE2-Technical-9933ff?style=for-the-badge"/>
 </a>
 
 <a href="https://www.credly.com/badges/b7b62e7a-6793-4245-9d05-0a972284ec0f/public_url">
-<img src="https://img.shields.io/badge/IBM-Cybersecurity-0F62FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-Cybersecurity-ff00cc?style=for-the-badge&logo=ibm&logoColor=white"/>
 </a>
 
 </p>
@@ -119,7 +161,7 @@ Time Mgmt      █████████░ 90%
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 📊 ANALYTICS
+## 📊 SYSTEM ANALYTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=unicorn-rm&show_icons=true&theme=tokyonight&hide_border=true&title_color=ff66ff&icon_color=cc66ff"/>
 
@@ -134,11 +176,11 @@ Time Mgmt      █████████░ 90%
 <p align="center">
 
 <a href="https://t.me/yarik2279">
-<img src="https://img.shields.io/badge/Telegram-@yarik2279-2AABEE?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram-@yarik2279-ff66cc?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="mailto:unicorn_rm@proton.me">
-<img src="https://img.shields.io/badge/Email-unicorn_rm@proton.me-ff00cc?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-unicorn_rm@proton.me-cc33ff?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -146,3 +188,8 @@ Time Mgmt      █████████░ 90%
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6600ff,50:cc33ff,100:ff00cc&height=140&section=footer"/>
+
+```bash
+> system.exit()
+> unicorn session terminated
+```
