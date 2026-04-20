@@ -4,7 +4,11 @@
 
 <!-- ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=UNICORN%20SYSTEM&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=UNICORN%20SYSTEM&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentester+in+progress;Network+Explorer;Always+learning..." />
+</p>
 
 ```bash
 [ SYSTEM ] unicornOS v3.0
@@ -47,7 +51,9 @@ const unicorn = {
 
 ## 🔐 SECURITY STACK
 
-![stack](https://skillicons.dev/icons?i=linux,python,bash,git,github,js,html,css)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,js,html,css&theme=dark" />
+</p>
 
 ---
 
@@ -77,11 +83,14 @@ Firewall   ██████████ 100%
 
 ## 📊 SYSTEM ANALYTICS
 
-![stats](https://github-readme-stats.vercel.app/api?username=unicorn\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=unicorn&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=unicorn&theme=radical&hide_border=true" height="160"/>
+</p>
 
-![streak](https://streak-stats.demolab.com?user=unicorn\&theme=tokyonight\&hide_border=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn\&layout=compact\&theme=tokyonight\&hide_border=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unicorn&layout=compact&theme=radical&hide_border=true" height="140"/>
+</p>
 
 ---
 
@@ -119,7 +128,9 @@ Firewall   ██████████ 100%
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=120&section=footer"/>
+</p>
 
 ```bash
 > system.shutdown()
