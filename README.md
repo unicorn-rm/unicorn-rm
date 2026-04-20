@@ -4,14 +4,18 @@
 
 <!-- ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=200&section=header&text=UNICORN%20SYSTEM&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00cc,100:333399&height=250&section=header&text=UNICORN%20SYSTEM&fontSize=45&fontColor=ffffff&animation=fadeIn&stroke=ff00cc" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Student;Pentester+in+progress;Network+Explorer;Always+learning..." />
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff00cc&size=24&center=true&vCenter=true&width=700&lines=Initializing+Cyber+Environment...;Pentester+in+Progress;Network+Analysis+Mode+ON;Welcome+to+unicornOS" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=unicorn&label=PROFILE+VIEWS&color=ff00cc&style=for-the-badge" />
 </p>
 
 ```bash
-[ SYSTEM ] unicornOS v3.0
+[ SYSTEM ] unicornOS v3.1
 [ INIT   ] Booting cyber environment...
 [ LOAD   ] modules: network, pentest, analysis
 [ STATUS ] READY
@@ -59,12 +63,12 @@ const unicorn = {
 
 ## 📡 NETWORK STATUS
 
-```
-TCP/IP     ██████████ 100%
-DNS        ████████░░ 85%
-HTTP/S     ██████████ 100%
-VPN        ██████████ 100%
-Firewall   ██████████ 100%
+```diff
++ TCP/IP     ██████████ 100%
++ DNS        ████████░░ 85%
++ HTTP/S     ██████████ 100%
++ VPN        ██████████ 100%
++ Firewall   ██████████ 100%
 ```
 
 ---
@@ -84,8 +88,12 @@ Firewall   ██████████ 100%
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=unicorn&show_icons=true&theme=radical&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=unicorn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
 <img src="https://streak-stats.demolab.com?user=unicorn&theme=radical&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unicorn&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
 <p align="center">
@@ -129,7 +137,7 @@ Firewall   ██████████ 100%
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333399,100:ff00cc&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:333399,100:ff00cc&height=120&section=footer"/>
 </p>
 
 ```bash
