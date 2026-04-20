@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:7f00ff&height=220&section=header&text=UNICORN%20OS%20v7.0&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:7f00ff&height=220&section=header&text=UNICORN%20OS%20v8.0&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF00CC&size=22&center=true&vCenter=true&width=700&lines=unicorn-rm+%7C+Cybersecurity+Student;Offensive+Security+Mode+Activated;Pentest+%7C+Networks+%7C+Analysis;Always+Learning+%F0%9F%94%90" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF00CC&size=22&center=true&vCenter=true&width=700&lines=unicorn-rm+%7C+Cybersecurity+Student;Offensive+Security+Mode+Activated;Pentest+%7C+Networks+%7C+Analysis;Real+Attack+Simulation+%F0%9F%94%A5" />
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-```bash
-> booting unicornOS v7.0...
-> injecting cyber modules...
+```bash id="bootv8"
+> booting unicornOS v8.0...
+> loading offensive modules...
 > system status: ONLINE ⚡
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+---
 
-```bash
+```bash id="corev8"
 $ whoami
 unicorn-rm
 
@@ -29,66 +29,47 @@ offensive-security
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:7f00ff&height=2"/>
 
-```bash
-$ load_modules
+## 💣 ATTACK LOGS
 
-[✔] web_security
-[✔] network_analysis
-[✔] pentesting
-[✔] scripting
+```bash id="attacklogs"
+[ SCAN SESSION #0192 ]
+
+target: web application
+status: scanning...
+
+[+] XSS vulnerability detected
+[!] payload injected successfully
+[+] response captured
+
+target: login panel
+[+] brute-force simulation
+[!] weak credentials found
+
+status: REPORT GENERATED ⚡
 ```
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-```bash
-$ scan --skills
+## 🧪 LAB ENVIRONMENT
 
-[ OS ]
-windows         █████████░ 90%
-linux           ████████░░ 85%
-virtualization  ███████░░░ 80%
+```bash id="labv8"
+$ lab_status
 
-[ PROGRAMMING ]
-python          ███████░░░ 75%
-c++ / c#        ██████░░░░ 70%
-sql             ███████░░░ 75%
-
-[ TOOLS ]
-pentest         ████████░░ 85%
-git/github      █████████░ 90%
-databases       ██████████ 95%
-
-[ NETWORK ]
-tcp/ip          ██████████ 100%
-dns             ████████░░ 85%
-http/https      ██████████ 100%
-vpn             ██████████ 100%
-
-[ CYBERSEC ]
-encryption      █████████░ 90%
-pentest         ███████░░░ 80%
-kali linux      █████████░ 95%
-analysis        █████████░ 90%
+> tryhackme         [ACTIVE]
+> hackthebox        [ACTIVE]
+> vulnerability lab [RUNNING]
+> exploit testing   [RUNNING]
 ```
 
 ---
 
-## 🔐 CYBER STACK
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:ff00cc&height=2"/>
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker" />
+## 🔐 CYBER STACK (VERTICAL)
 
-<br>
-
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Networking-7f00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-ff00cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/><br> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><br> <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/><br> <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge"/><br> <img src="https://img.shields.io/badge/Burp_Suite-ff6633?style=for-the-badge"/><br> <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge"/><br> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/><br> <img src="https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white"/><br> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ---
 
@@ -104,17 +85,16 @@ analysis        █████████░ 90%
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7f00ff,100:ff00cc&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:7f00ff&height=2"/>
 
-## 🧠 LIVE STATUS
+## 🧠 ACTIVE PROJECTS
 
-```bash
-$ lab_status
+```bash id="projectsv8"
+[ RUNNING ]
 
-> tryhackme         [ACTIVE]
-> hackthebox        [ACTIVE]
-> exploit research  [RUNNING]
-> traffic analysis  [RUNNING]
+> portfolio.sh      # terminal portfolio
+> cyber-labs        # security practice
+> vuln-scanner      # custom scripts
 ```
 
 ---
@@ -123,7 +103,7 @@ $ lab_status
 
 ## 📡 CONTACT
 
-```bash
+```bash id="contactv8"
 telegram: @yarik2279
 email: unicorn_rm@proton.me
 ```
@@ -132,7 +112,7 @@ email: unicorn_rm@proton.me
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f00ff,100:ff00cc&height=140&section=footer"/>
 
-```bash
+```bash id="shutdownv8"
 > system.shutdown()
 > session closed
 > unicorn-rm 🦄
