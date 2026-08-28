@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Yaroslav — безопасность сетей и приложений">
+<defs>
+<linearGradient id="bgamd" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0B0906"/><stop offset="1" stop-color="#120E08"/>
+</linearGradient>
+<linearGradient id="acamd" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFB454"/><stop offset="1" stop-color="#FF7A45"/>
+</linearGradient>
+<linearGradient id="swamd" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFB454" stop-opacity="0"/>
+<stop offset="0.60" stop-color="#FFB454" stop-opacity="0.035"/>
+<stop offset="0.85" stop-color="#FFB454" stop-opacity="0.10"/>
+<stop offset="0.97" stop-color="#FFB454" stop-opacity="0.20"/>
+<stop offset="1" stop-color="#FFB454" stop-opacity="0.26"/>
+</linearGradient>
+<pattern id="gramd" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M32 0H0V32" fill="none" stroke="#231A0E" stroke-width="1"/>
+</pattern>
+<clipPath id="clamd"><rect width="1280" height="340" rx="10"/></clipPath>
+<filter id="glamd" x="-60%" y="-60%" width="220%" height="220%">
+<feGaussianBlur stdDeviation="4" result="b"/><feMerge>
+<feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<style>
+.edge{stroke:url(#acamd);stroke-width:1.1;opacity:.30;animation:flow 5.5s ease-in-out infinite}
+.node{fill:url(#acamd)}
+.halo{fill:#FFB454;opacity:.14;animation:pulse 5.5s ease-in-out infinite}
+.shield{fill:none;stroke:url(#acamd);stroke-width:2;opacity:.85;
+  stroke-dasharray:640;stroke-dashoffset:640;animation:draw 3.2s ease-out forwards}
+.shieldbg{fill:#FFB454;opacity:.045}
+.sweep{animation:sweep 11s cubic-bezier(.5,0,.5,1) infinite}
+.tick{fill:#6B5A42;opacity:.42;animation:tick 4.4s ease-in-out infinite}
+.dot{fill:#FFB454;animation:blink 2.6s ease-in-out infinite}
+.nm{font-family:ui-sans-serif,system-ui,"Segoe UI",Roboto,Arial,sans-serif}
+@keyframes sweep{0%{transform:translateX(0)}62%,100%{transform:translateX(1320px)}}
+@keyframes pulse{0%,100%{opacity:.10;transform:scale(.75)}50%{opacity:.32;transform:scale(1.25)}}
+@keyframes flow{0%,100%{opacity:.22}50%{opacity:.62}}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes tick{0%,100%{opacity:.30}50%{opacity:.68}}
+@keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){
+ *{animation:none!important}
+ .shield{stroke-dashoffset:0} .sweep{display:none}
+}
+</style>
+<g clip-path="url(#clamd)">
+<rect width="1280" height="340" fill="url(#bgamd)"/>
+<rect width="1280" height="340" fill="url(#gramd)" opacity=".85"/>
+<g class="sweep">
+<rect x="-470" y="0" width="470" height="340" fill="url(#swamd)"/>
+<rect x="-1.6" y="0" width="1.6" height="340" fill="#FFB454" opacity=".22" filter="url(#glamd)"/>
+</g>
+
+<g transform="translate(1035,168)">
+<path class="shieldbg" d="M -70,-90 Q -70,-96 -63,-96 L 63,-96 Q 70,-96 70,-90 L 70,-14 C 70,44 34,79 0,97 C -34,79 -70,44 -70,-14 Z"/>
+<path class="shield" d="M -70,-90 Q -70,-96 -63,-96 L 63,-96 Q 70,-96 70,-90 L 70,-14 C 70,44 34,79 0,97 C -34,79 -70,44 -70,-14 Z" filter="url(#glamd)"/>
+<g filter="url(#glamd)"><line class="edge" x1="0" y1="-60" x2="-40" y2="-28" style="animation-delay:0.00s"/><line class="edge" x1="0" y1="-60" x2="40" y2="-28" style="animation-delay:0.35s"/><line class="edge" x1="-40" y1="-28" x2="0" y2="-4" style="animation-delay:0.70s"/><line class="edge" x1="40" y1="-28" x2="0" y2="-4" style="animation-delay:1.05s"/><line class="edge" x1="-40" y1="-28" x2="-28" y2="30" style="animation-delay:1.40s"/><line class="edge" x1="40" y1="-28" x2="28" y2="30" style="animation-delay:1.75s"/><line class="edge" x1="0" y1="-4" x2="-28" y2="30" style="animation-delay:2.10s"/><line class="edge" x1="0" y1="-4" x2="28" y2="30" style="animation-delay:2.45s"/><line class="edge" x1="-28" y1="30" x2="0" y2="58" style="animation-delay:2.80s"/><line class="edge" x1="28" y1="30" x2="0" y2="58" style="animation-delay:3.15s"/><line class="edge" x1="0" y1="-4" x2="0" y2="58" style="animation-delay:3.50s"/><g transform="translate(0,-60)"><circle class="halo" r="10" style="animation-delay:0.00s"/><circle class="node" r="3.4"/></g><g transform="translate(-40,-28)"><circle class="halo" r="10" style="animation-delay:0.62s"/><circle class="node" r="3.4"/></g><g transform="translate(40,-28)"><circle class="halo" r="10" style="animation-delay:1.24s"/><circle class="node" r="3.4"/></g><g transform="translate(0,-4)"><circle class="halo" r="10" style="animation-delay:1.86s"/><circle class="node" r="3.4"/></g><g transform="translate(-28,30)"><circle class="halo" r="10" style="animation-delay:2.48s"/><circle class="node" r="3.4"/></g><g transform="translate(28,30)"><circle class="halo" r="10" style="animation-delay:3.10s"/><circle class="node" r="3.4"/></g><g transform="translate(0,58)"><circle class="halo" r="10" style="animation-delay:3.72s"/><circle class="node" r="3.4"/></g></g>
+</g>
+
+<g class="nm">
+<circle class="dot" cx="84" cy="72" r="3.5"/>
+<text x="98" y="77" fill="#A08A66" font-size="13" letter-spacing="4.2" font-weight="600">SECURITY ENGINEERING</text>
+<text x="80" y="176" fill="#F6EBD9" font-size="72" font-weight="700" letter-spacing="9">YAROSLAV</text>
+<text x="84" y="216" fill="url(#acamd)" font-size="21" font-weight="600" letter-spacing="1.2">безопасность сетей и приложений</text>
+<text x="84" y="250" fill="#A08A66" font-size="15" letter-spacing=".6">Челябинск &#183; открыт к стажировке &#183; пентест &#183; VPN &#183; Linux</text>
+</g>
+
+<rect class="tick" x="80" y="295" width="3" height="5" style="animation-delay:0.00s"/><rect class="tick" x="94" y="291" width="3" height="9" style="animation-delay:0.11s"/><rect class="tick" x="108" y="294" width="3" height="6" style="animation-delay:0.22s"/><rect class="tick" x="122" y="287" width="3" height="13" style="animation-delay:0.33s"/><rect class="tick" x="136" y="292" width="3" height="8" style="animation-delay:0.44s"/><rect class="tick" x="150" y="283" width="3" height="17" style="animation-delay:0.55s"/><rect class="tick" x="164" y="289" width="3" height="11" style="animation-delay:0.66s"/><rect class="tick" x="178" y="293" width="3" height="7" style="animation-delay:0.77s"/><rect class="tick" x="192" y="286" width="3" height="14" style="animation-delay:0.88s"/><rect class="tick" x="206" y="291" width="3" height="9" style="animation-delay:0.99s"/><rect class="tick" x="220" y="295" width="3" height="5" style="animation-delay:1.10s"/><rect class="tick" x="234" y="288" width="3" height="12" style="animation-delay:1.21s"/><rect class="tick" x="248" y="292" width="3" height="8" style="animation-delay:1.32s"/><rect class="tick" x="262" y="294" width="3" height="6" style="animation-delay:1.43s"/><rect class="tick" x="276" y="290" width="3" height="10" style="animation-delay:1.54s"/><rect class="tick" x="290" y="293" width="3" height="7" style="animation-delay:1.65s"/>
+<rect x="80" y="303" width="1120" height="1" fill="#2F2312" opacity=".9"/>
+<rect width="1280" height="340" rx="10" fill="none" stroke="#2F2312" stroke-width="1"/>
+</g>
+</svg>
