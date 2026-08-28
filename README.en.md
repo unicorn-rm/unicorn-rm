@@ -48,12 +48,12 @@ Co-owner and lead developer of two products with live users and real revenue.
 </td>
 <td width="50%" valign="top">
 
-<picture>
+<a href="https://github.com/unicorn-rm/secure-stand-tr3000"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stand-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stand-light.svg">
   <img alt="Diagram of the portable hardened network stand" src="assets/stand-light.svg">
-</picture>
-<h3>Portable hardened network stand</h3>
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/secure-stand-tr3000">Portable hardened network stand</a></h3>
 <p>A pocket router hides all traffic from the attached device inside an obfuscated tunnel and lets nothing leak around it. The uplink is a phone over USB; there is deliberately no SIM in the router.</p>
 <p><b>Role:</b> design, build and testing. The threat model is stated honestly: the goal is to raise the detection threshold and the cost of analysis, not to promise untraceability.</p>
 <p><code>OpenWrt</code> <code>AmneziaWG</code> <code>nftables</code> <code>Cudy TR3000</code></p>
@@ -62,7 +62,7 @@ Co-owner and lead developer of two products with live users and real revenue.
 </tr>
 </table>
 
-## Case study: a local LLM agent
+## Case study: [a local LLM agent](https://github.com/unicorn-rm/local-llm-agent)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/llm-bench-dark.svg">
@@ -82,9 +82,35 @@ wrong and the cheap one — check the environment — was right.
 
 <code>Ollama</code> <code>opencode</code> <code>CUDA</code> <code>Python</code>
 
-## Lab work
+## Security stands and practice
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/unicorn-rm/win10-hardened-lab"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/win10-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/win10-light.svg">
+  <img alt="Hardened Windows 10 diagram" src="assets/win10-light.svg">
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/win10-hardened-lab">win10-hardened-lab</a></h3>
+<p>A hardened, isolated Windows 10 in VirtualBox: all DNS forced through Cloudflare DoH, plaintext DNS blocked, host↔guest channels closed. Threat model, deployment scripts, isolation checks.</p>
+<p><code>VirtualBox</code> <code>PowerShell</code> <code>cloudflared</code> <code>Windows</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/unicorn-rm/pentest-lab-writeups"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pentest-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pentest-light.svg">
+  <img alt="Three machine writeups from recon to root" src="assets/pentest-light.svg">
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/pentest-lab-writeups">pentest-lab-writeups</a></h3>
+<p>Writeups of vulnerable machines from recon to root: Mr Robot, Kevgir, Empire LupinOne. Full attack chains with commands. Lab — nested QEMU/KVM on an isolated network.</p>
+<p><code>nmap</code> <code>ffuf</code> <code>Metasploit</code> <code>John</code></p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -98,7 +124,7 @@ wrong and the cheap one — check the environment — was right.
 
 <a href="https://github.com/unicorn-rm/password-tool"><img src="assets/password-tool.png" alt="password-tool screen"></a>
 <h3><a href="https://github.com/unicorn-rm/password-tool">password-tool</a></h3>
-<p>Password strength analysis: entropy scoring, breach-wordlist lookups and a generator, behind a web interface with the work done server-side.</p>
+<p>Password strength analysis: rule-based scoring, a common-password dictionary check, and a generator built on secrets. Web interface, work done server-side.</p>
 <p><code>Python</code> <code>Flask</code></p>
 
 </td>

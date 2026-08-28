@@ -49,12 +49,12 @@
 </td>
 <td width="50%" valign="top">
 
-<picture>
+<a href="https://github.com/unicorn-rm/secure-stand-tr3000"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stand-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stand-light.svg">
   <img alt="Схема переносного защищённого стенда" src="assets/stand-light.svg">
-</picture>
-<h3>Переносной защищённый стенд</h3>
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/secure-stand-tr3000">Переносной защищённый стенд</a></h3>
 <p>Карманный роутер прячет весь трафик подключённого устройства в обфусцированный туннель и не даёт ничему утечь мимо него. Аплинк — телефон по USB, SIM в роутере нет намеренно.</p>
 <p><b>Роль:</b> проектирование, сборка, испытания. Модель угроз сформулирована честно: цель — поднять порог обнаружения и стоимость анализа, а не обещать неотслеживаемость.</p>
 <p><code>OpenWrt</code> <code>AmneziaWG</code> <code>nftables</code> <code>Cudy TR3000</code></p>
@@ -63,7 +63,7 @@
 </tr>
 </table>
 
-## Исследование: локальный LLM-агент
+## Исследование: [локальный LLM-агент](https://github.com/unicorn-rm/local-llm-agent)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/llm-bench-dark.svg">
@@ -80,11 +80,37 @@
 Ценность кейса не в цифрах, а в том, что дорогая гипотеза (квантование) оказалась
 неверной, а дешёвая проверка окружения — верной.
 
-<code>Ollama</code> <code>opencode</code> <code>CUDA</code> <code>Python</code>
+<code>Ollama</code> <code>opencode</code> <code>CUDA</code> <code>Python</code> · [репозиторий →](https://github.com/unicorn-rm/local-llm-agent)
 
-## Учебные стенды
+## Стенды и практика по безопасности
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/unicorn-rm/win10-hardened-lab"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/win10-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/win10-light.svg">
+  <img alt="Схема защищённой Windows 10" src="assets/win10-light.svg">
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/win10-hardened-lab">win10-hardened-lab</a></h3>
+<p>Защищённая изолированная Windows 10 в VirtualBox: весь DNS принудительно через Cloudflare DoH, открытый DNS заблокирован, каналы хост↔гость закрыты. Модель угроз, скрипты развёртывания, проверка изоляции.</p>
+<p><code>VirtualBox</code> <code>PowerShell</code> <code>cloudflared</code> <code>Windows</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/unicorn-rm/pentest-lab-writeups"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pentest-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pentest-light.svg">
+  <img alt="Разборы трёх машин от разведки до root" src="assets/pentest-light.svg">
+</picture></a>
+<h3><a href="https://github.com/unicorn-rm/pentest-lab-writeups">pentest-lab-writeups</a></h3>
+<p>Разборы уязвимых машин от разведки до root: Mr Robot, Kevgir, Empire LupinOne. Полные цепочки атак с командами. Стенд — нестед-виртуализация QEMU/KVM на изолированной сети.</p>
+<p><code>nmap</code> <code>ffuf</code> <code>Metasploit</code> <code>John</code></p>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -98,7 +124,7 @@
 
 <a href="https://github.com/unicorn-rm/password-tool"><img src="assets/password-tool.png" alt="Экран password-tool"></a>
 <h3><a href="https://github.com/unicorn-rm/password-tool">password-tool</a></h3>
-<p>Разбор стойкости паролей: оценка энтропии, проверка по словарям утечек и генератор. Веб-интерфейс, считает на сервере.</p>
+<p>Разбор стойкости паролей: балльная оценка, проверка по словарю частых паролей и генератор на secrets. Веб-интерфейс, считает на сервере.</p>
 <p><code>Python</code> <code>Flask</code></p>
 
 </td>
