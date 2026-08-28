@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="492" viewBox="0 0 900 492" role="img" aria-label="АРСЕНАЛ: 26 инструментов">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0B0906"/><stop offset="1" stop-color="#120E08"/></linearGradient>
+<linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFB454"/><stop offset="1" stop-color="#FF7A45"/></linearGradient>
+<linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#FFB454" stop-opacity="0"/>
+<stop offset="0.75" stop-color="#FFB454" stop-opacity="0.05"/>
+<stop offset="0.97" stop-color="#FFB454" stop-opacity="0.13"/>
+<stop offset="1" stop-color="#FFB454" stop-opacity="0.18"/></linearGradient>
+<pattern id="gr" width="32" height="32" patternUnits="userSpaceOnUse">
+<path d="M32 0H0V32" fill="none" stroke="#231A0E" stroke-width="1"/></pattern>
+<clipPath id="cl"><rect width="900" height="492" rx="10"/></clipPath>
+</defs>
+<style>
+.sweep{animation:sweep 14s cubic-bezier(.5,0,.5,1) infinite}
+.it{opacity:1;animation:in .9s ease-out both}
+.gi{animation:breathe 6s ease-in-out infinite}
+@keyframes sweep{0%{transform:translateX(0)}66%,100%{transform:translateX(960px)}}
+@keyframes in{from{opacity:.32;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+@keyframes breathe{0%,100%{opacity:.72}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){
+ .it{opacity:1;animation:none} .gi{animation:none} .sweep{display:none}}
+</style>
+<g clip-path="url(#cl)">
+<rect width="900" height="492" fill="url(#bg)"/>
+<rect width="900" height="492" fill="url(#gr)" opacity=".8"/>
+<g class="sweep"><rect x="-520" y="0" width="520" height="492" fill="url(#sw)"/>
+<rect x="-1.4" y="0" width="1.4" height="492" fill="#FFB454" opacity=".16"/></g>
+<text x="36" y="52" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="13" font-weight="700"
+ letter-spacing="4.6" fill="url(#ac)">АРСЕНАЛ</text>
+<text x="864" y="52" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5"
+ fill="#6B5A42">26 инструментов</text>
+<rect x="36" y="68" width="828" height="1" fill="#2F2312"/>
+<g class="gi" transform="translate(36,98) scale(.8)"><circle cx="10" cy="10" r="6.5" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M15 15 L21 21" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="62" y="112" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.7" fill="#A08A66">РАЗВЕДКА</text>
+<g class="it" style="animation-delay:0.06s"><rect x="36" y="126" width="60" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="49" y="147" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">nmap</text></g>
+<g class="it" style="animation-delay:0.11s"><rect x="106" y="126" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="119" y="147" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">masscan</text></g>
+<g class="it" style="animation-delay:0.17s"><rect x="201" y="126" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="214" y="147" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">maltego</text></g>
+<g class="it" style="animation-delay:0.22s"><rect x="296" y="126" width="110" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="309" y="147" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">spiderfoot</text></g>
+<g class="it" style="animation-delay:0.28s"><rect x="416" y="126" width="110" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="429" y="147" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">enum4linux</text></g>
+<g class="gi" transform="translate(36,172) scale(.8)"><circle cx="12" cy="12" r="8.5" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M3.5 12h17M12 3.5c2.6 2.6 2.6 14.4 0 17M12 3.5c-2.6 2.6-2.6 14.4 0 17" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="62" y="186" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.7" fill="#A08A66">ВЕБ-ПРИЛОЖЕНИЯ</text>
+<g class="it" style="animation-delay:0.33s"><rect x="36" y="200" width="110" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="49" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">Burp Suite</text></g>
+<g class="it" style="animation-delay:0.39s"><rect x="156" y="200" width="76" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="169" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">sqlmap</text></g>
+<g class="it" style="animation-delay:0.44s"><rect x="242" y="200" width="60" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="255" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">ffuf</text></g>
+<g class="it" style="animation-delay:0.49s"><rect x="312" y="200" width="93" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="325" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">gobuster</text></g>
+<g class="it" style="animation-delay:0.55s"><rect x="415" y="200" width="68" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="428" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">nikto</text></g>
+<g class="it" style="animation-delay:0.60s"><rect x="493" y="200" width="60" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="506" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">dirb</text></g>
+<g class="it" style="animation-delay:0.66s"><rect x="563" y="200" width="76" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="576" y="221" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">wpscan</text></g>
+<g class="gi" transform="translate(36,246) scale(.8)"><circle cx="7" cy="12" r="4.6" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M11.6 12H21M17 12v4.2M20.2 12v3" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="62" y="260" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.7" fill="#A08A66">ПАРОЛИ И ДОСТУП</text>
+<g class="it" style="animation-delay:0.71s"><rect x="36" y="274" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="49" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">hashcat</text></g>
+<g class="it" style="animation-delay:0.77s"><rect x="131" y="274" width="152" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="144" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">John the Ripper</text></g>
+<g class="it" style="animation-delay:0.82s"><rect x="293" y="274" width="68" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="306" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">hydra</text></g>
+<g class="it" style="animation-delay:0.88s"><rect x="371" y="274" width="93" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="384" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">impacket</text></g>
+<g class="it" style="animation-delay:0.94s"><rect x="474" y="274" width="102" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="487" y="295" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">responder</text></g>
+<g class="gi" transform="translate(36,320) scale(.8)"><path d="M2 12h3l2.5-7 3.5 14 3-9 2 4h6" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="62" y="334" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.7" fill="#A08A66">СЕТЬ И ТРАФИК</text>
+<g class="it" style="animation-delay:0.99s"><rect x="36" y="348" width="102" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="49" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">Wireshark</text></g>
+<g class="it" style="animation-delay:1.04s"><rect x="148" y="348" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="161" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">tcpdump</text></g>
+<g class="it" style="animation-delay:1.10s"><rect x="243" y="348" width="76" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="256" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">netcat</text></g>
+<g class="it" style="animation-delay:1.16s"><rect x="329" y="348" width="119" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="342" y="369" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">aircrack-ng</text></g>
+<g class="gi" transform="translate(36,394) scale(.8)"><circle cx="12" cy="12" r="8.5" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><circle cx="12" cy="12" r="3.5" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 1v3M12 20v3M1 12h3M20 12h3" fill="none" stroke="url(#ac)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="62" y="408" font-family="ui-sans-serif,system-ui,'Segoe UI',Roboto,Arial,sans-serif" font-size="12.5" font-weight="600" letter-spacing="1.7" fill="#A08A66">ЭКСПЛУАТАЦИЯ И РЕВЕРС</text>
+<g class="it" style="animation-delay:1.21s"><rect x="36" y="422" width="110" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="49" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">Metasploit</text></g>
+<g class="it" style="animation-delay:1.26s"><rect x="156" y="422" width="102" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="169" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">exploitdb</text></g>
+<g class="it" style="animation-delay:1.32s"><rect x="268" y="422" width="51" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="281" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">SET</text></g>
+<g class="it" style="animation-delay:1.38s"><rect x="329" y="422" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="342" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">radare2</text></g>
+<g class="it" style="animation-delay:1.43s"><rect x="424" y="422" width="85" height="32" rx="7" fill="#1A130A" stroke="url(#ac)" stroke-opacity=".38"/><text x="437" y="443" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14" fill="#F6EBD9">binwalk</text></g>
+<rect width="900" height="492" rx="10" fill="none" stroke="#2F2312"/></g></svg>

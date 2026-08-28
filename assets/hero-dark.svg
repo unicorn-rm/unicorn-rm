@@ -27,7 +27,7 @@
 .node{fill:url(#acamd)}
 .halo{fill:#FFB454;opacity:.14;animation:pulse 5.5s ease-in-out infinite}
 .shield{fill:none;stroke:url(#acamd);stroke-width:2;opacity:.85;
-  stroke-dasharray:640;stroke-dashoffset:640;animation:draw 3.2s ease-out forwards}
+  stroke-dasharray:640;stroke-dashoffset:0;animation:draw 3.2s ease-out both}
 .shieldbg{fill:#FFB454;opacity:.045}
 .sweep{animation:sweep 11s cubic-bezier(.5,0,.5,1) infinite}
 .tick{fill:#6B5A42;opacity:.42;animation:tick 4.4s ease-in-out infinite}
@@ -36,7 +36,7 @@
 @keyframes sweep{0%{transform:translateX(0)}62%,100%{transform:translateX(1320px)}}
 @keyframes pulse{0%,100%{opacity:.10;transform:scale(.75)}50%{opacity:.32;transform:scale(1.25)}}
 @keyframes flow{0%,100%{opacity:.22}50%{opacity:.62}}
-@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes draw{from{stroke-dashoffset:640}to{stroke-dashoffset:0}}
 @keyframes tick{0%,100%{opacity:.30}50%{opacity:.68}}
 @keyframes blink{0%,100%{opacity:.35}50%{opacity:1}}
 @media (prefers-reduced-motion:reduce){
