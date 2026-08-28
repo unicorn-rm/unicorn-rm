@@ -6,9 +6,8 @@
 
 [Русский](README.md) · **English**
 
-Information security specialist and developer based in Chelyabinsk, Russia. I lead
-two products that have live users and real revenue — I co-own the brand of one,
-and own the client, the server side and the security of the other outright.
+Information security specialist and developer based in Chelyabinsk, Russia.
+Co-owner and lead developer of two products with live users and real revenue.
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40yaroslav__mv-B26A00?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yaroslav_mv) [![Proton Mail](https://img.shields.io/badge/Mail-unicorn__rm%40proton.me-8A5A2B?style=flat-square&logo=protonmail&logoColor=white)](mailto:unicorn_rm@proton.me)
 
@@ -21,7 +20,7 @@ and own the client, the server side and the security of the other outright.
 <a href="https://asterio-ai.com"><img src="assets/asterio.png" alt="Asterio"></a>
 <h3><a href="https://asterio-ai.com">Asterio</a></h3>
 <p><b>Russia's first official AI aggregator.</b> Access to neural networks without a VPN: chat, image and video generation, AI agents, card payments.</p>
-<p><b>Role:</b> lead developer and security specialist, co-owner of the brand.</p>
+<p><b>Role:</b> co-owner, lead developer and security specialist.</p>
 <p><b>I run:</b> the site, the backend and the server side. Payment and legal layers, anti-bot protection, and load-time work — the bundle went from 977 KB down to 276 KB through code splitting, a 3.5x cut.</p>
 <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Cloudflare</code></p>
 
@@ -31,7 +30,7 @@ and own the client, the server side and the security of the other outright.
 <a href="https://github.com/unicorn-rm/vantage-guardian"><img src="assets/vantage-guardian.png" alt="VANTAGE GUARDIAN main screen"></a>
 <h3><a href="https://github.com/unicorn-rm/vantage-guardian">VANTAGE GUARDIAN</a></h3>
 <p>Network protection client for gaming venues. One button raises a tunnel to the game node; the venue's own local networks are never touched.</p>
-<p><b>Role:</b> client and server-side development, security, and the product's legal layer.</p>
+<p><b>Role:</b> co-owner. Client and server-side development, security, and the product's legal layer.</p>
 <p><b>Built:</b> installed-game scanner across six launchers, split routing, clean DNS, an in-app catalogue that launches games directly, and on-site test runs on venue machines.</p>
 <p><code>Rust</code> <code>Tauri</code> <code>AmneziaWG</code> <code>Windows</code></p>
 
