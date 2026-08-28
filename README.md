@@ -93,7 +93,7 @@
 
 ## Связаться
 
-Открыт к стажировке и позициям в информационной безопасности.
+Открыт к предложениям в информационной безопасности и разработке.
 
 - Telegram — [@yaroslav_mv](https://t.me/yaroslav_mv)
 - Почта — [unicorn_rm@proton.me](mailto:unicorn_rm@proton.me)

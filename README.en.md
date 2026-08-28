@@ -92,7 +92,7 @@ and own the client, the server side and the security of the other outright.
 
 ## Contact
 
-Open to internships and roles in information security.
+Open to offers in information security and development.
 
 - Telegram — [@yaroslav_mv](https://t.me/yaroslav_mv)
 - Email — [unicorn_rm@proton.me](mailto:unicorn_rm@proton.me)
