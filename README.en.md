@@ -17,7 +17,7 @@ Co-owner and lead developer of two products with live users and real revenue.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://asterio-ai.com"><img src="assets/asterio.png" alt="Asterio"></a>
+<a href="https://asterio-ai.com"><img src="assets/asterio.png" alt="Asterio main screen"></a>
 <h3><a href="https://asterio-ai.com">Asterio</a></h3>
 <p><b>Russia's first official AI aggregator.</b> Access to neural networks without a VPN: chat, image and video generation, AI agents, card payments.</p>
 <p><b>Role:</b> co-owner, lead developer and security specialist.</p>

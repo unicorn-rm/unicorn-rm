@@ -18,7 +18,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://asterio-ai.com"><img src="assets/asterio.png" alt="Asterio"></a>
+<a href="https://asterio-ai.com"><img src="assets/asterio.png" alt="Главный экран Asterio"></a>
 <h3><a href="https://asterio-ai.com">Asterio</a></h3>
 <p><b>Первый официальный ИИ-агрегатор в России.</b> Доступ к нейросетям без VPN: чат, генерация изображений и видео, ИИ-агенты, оплата картой.</p>
 <p><b>Роль:</b> совладелец, ведущий разработчик и специалист по кибербезопасности.</p>
