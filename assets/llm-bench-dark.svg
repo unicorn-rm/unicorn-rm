@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="550" viewBox="0 0 880 550" role="img" aria-label="Замер: до и после установки драйвера NVIDIA, токенов в секунду">
+<rect width="880" height="550" fill="#0D0D0D"/>
+<text x="56" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2.6" fill="#F0F0F0">RTX 3060 · ТОКЕНОВ В СЕКУНДУ</text>
+<text x="56" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#909090">до и после установки драйвера NVIDIA и CUDA</text>
+<rect x="56" y="94" width="768" height="1" fill="#3A3A3A"/>
+<rect x="96" y="422" width="74" height="8" fill="none" stroke="#F0F0F0" stroke-width="1.2"/>
+<text x="133.0" y="410" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#F0F0F0">1</text>
+<text x="133.0" y="450" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#909090">ДО (Vulkan)</text>
+<rect x="216" y="310" width="74" height="120" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="1.2"/>
+<text x="253.0" y="298" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#F0F0F0">16</text>
+<text x="253.0" y="450" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#909090">ПОСЛЕ (CUDA)</text>
+<text x="193" y="476" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.6" fill="#F0F0F0">ГЕНЕРАЦИЯ</text>
+<text x="193" y="498" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#909090">×16</text>
+<rect x="496" y="417" width="74" height="13" fill="none" stroke="#F0F0F0" stroke-width="1.2"/>
+<text x="533.0" y="405" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#F0F0F0">1.7</text>
+<text x="533.0" y="450" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#909090">ДО (Vulkan)</text>
+<rect x="616" y="145" width="74" height="285" fill="#F0F0F0" stroke="#F0F0F0" stroke-width="1.2"/>
+<text x="653.0" y="133" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="17" font-weight="700" fill="#F0F0F0">38</text>
+<text x="653.0" y="450" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#909090">ПОСЛЕ (CUDA)</text>
+<text x="593" y="476" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" letter-spacing="1.6" fill="#F0F0F0">ОБРАБОТКА ПРОМПТА</text>
+<text x="593" y="498" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="11" fill="#909090">×22</text>
+<rect x="56" y="430" width="768" height="1" fill="#3A3A3A"/>
+<text x="56" y="516" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#909090">корень: в системе не было драйвера NVIDIA — GPU работал через Vulkan</text>
+<rect x=".5" y=".5" width="879" height="549" fill="none" stroke="#3A3A3A" opacity=".7"/></svg>
